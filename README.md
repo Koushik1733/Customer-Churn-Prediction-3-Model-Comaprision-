@@ -116,7 +116,7 @@ The following metrics were used to evaluate model performance:
 | ------------------- | ------------------------- |
 | Logistic Regression | 82.2%                     |
 | Random Forest       | 78.9%                     |
-| XGBoost             | (Update with your result) |
+| XGBoost             | 81.33%                    |
 
 Among the evaluated models, Logistic Regression achieved the best overall performance on the dataset.
 
@@ -153,6 +153,13 @@ These features played a significant role in predicting customer churn.
 ## Conclusion
 
 This project demonstrates how machine learning can be used to predict customer churn and identify factors associated with customer retention. Through exploratory data analysis and model comparison, meaningful insights were obtained regarding customer behavior and churn patterns. The final model achieved strong predictive performance and can assist businesses in identifying customers who may be at risk of leaving the service.
+
+## Author
+
+Koushik Panditi
+
+B.Tech CSE (AI)
+IIITDM Kancheepuram
 
 ---
 
