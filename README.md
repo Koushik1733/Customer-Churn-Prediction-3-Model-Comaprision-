@@ -39,6 +39,9 @@ The dataset contains customer demographic information, service subscriptions, bi
 * Studied the relationship between churn and important features
 * Identified patterns affecting customer churn
 
+## Contract Type vs Churn
+<img width="704" height="448" alt="image" src="https://github.com/user-attachments/assets/797aa5de-2426-435d-89ae-bcc230d67a1d" />
+
 ### Phase 3: Data Preprocessing
 
 * Converted categorical variables into numerical format
@@ -56,15 +59,24 @@ The dataset contains customer demographic information, service subscriptions, bi
 * Built an ensemble learning model
 * Compared performance with Logistic Regression
 
+## Feature Importance Analysis
+<img width="883" height="451" alt="image" src="https://github.com/user-attachments/assets/97b18bcd-bf4a-4bff-ab96-465b85beb04e" />
+
 ### Phase 6: XGBoost
 
 * Trained a gradient boosting model
 * Evaluated performance on the test dataset
 
+## Feature Importance Analysis
+<img width="883" height="451" alt="image" src="https://github.com/user-attachments/assets/c412dc72-b509-42c9-8ee7-5d937b4a0497" />
+
 ### Phase 7: Model Comparison
 
 * Compared all models
 * Selected the best-performing model
+
+## Model Performance Comparision
+<img width="708" height="451" alt="image" src="https://github.com/user-attachments/assets/a9d21dd8-bb5f-42fb-b8e5-d70ebfa39708" />
 
 ---
 
